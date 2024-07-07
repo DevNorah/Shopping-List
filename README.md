@@ -5,7 +5,7 @@ Users can also clear the entire list with a single click.
 
 ## INSTALLATION
 
-1. Clone the repository from git@github.com:DevNorah/
+1. Clone the repository from https://github.com/DevNorah/Shopping-List
 
 2. Open the cloned repository in your code editor.
 
@@ -13,7 +13,7 @@ Users can also clear the entire list with a single click.
 
 1. To run the code you need to open the index.html file on the code editor then view it using a live server.
 
-3. You can also run the code using this live link 
+3. You can also run the code using this deployed live link https://devnorah.github.io/Shopping-List/
 
 
 ## HOW IT WORKS
