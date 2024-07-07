@@ -3,6 +3,8 @@
 This shopping list application allows users to add items to a shopping list, mark items as purchased, and delete items from the list. 
 Users can also clear the entire list with a single click.
 
+![Home Page](https://github.com/DevNorah/Shopping-List/blob/main/Images/Shopping-List.png)
+
 ## INSTALLATION
 
 1. Clone the repository from https://github.com/DevNorah/Shopping-List
